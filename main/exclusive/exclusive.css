@@ -1,0 +1,42 @@
+.btn-dark {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.banner-imgBox {
+  padding-top: 8rem;
+}
+
+.banner-text {
+  color: white;
+  position: absolute;
+  z-index: 2;
+  right: 30px;
+  bottom: 50px;
+  text-align: center;
+}
+.ing-text {
+  height: 40%;
+  /* border: 1px solid red; */
+}
+
+.ing-text2 {
+  padding-top: 40%;
+  /* border: 1px solid red; */
+}
+
+.devidedLine {
+  border-bottom: 3px solid black;
+  border-top: 3px solid black;
+  margin: 5rem 0;
+}
+
+.devidedLine h1 {
+  font-size: 4.3rem;
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 13px !important;
+  }
+}
